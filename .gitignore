@@ -2,3 +2,4 @@
 # profile used: node
 
 node_modules
+dist/
